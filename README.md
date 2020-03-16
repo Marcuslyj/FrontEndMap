@@ -53,4 +53,5 @@
 # 技术交流群
 由于群人数超过100需要邀请进群，请扫描二维码添加小助手进群。
 
-![微信群](https://upload-images.jianshu.io/upload_images/10518780-6b8ea2af70dd52f1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
+<img src='https://github.com/webxing/FrontEndMap/blob/master/group.jpeg' width='300'>
+
